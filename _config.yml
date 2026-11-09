@@ -1,0 +1,12 @@
+title: All Wrongs Reserved
+description: Data, performance metrics and AI risk, explained straight. Sources linked.
+author: Evie
+url: "https://vee-kse.github.io"
+baseurl: ""
+markdown: kramdown
+permalink: /:year/:month/:title/
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+exclude:
+  - README.md
